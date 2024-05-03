@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: src/machine/CoffeeMachine.java
+    visible: true
+    learner_created: false
+  - name: test/CoffeeMachineTest.java
+    visible: false
+    learner_created: false
+  - name: src/machine/CoffeeStandards.java
+    visible: true
+    learner_created: true
+  - name: src/machine/MachineState.java
+    visible: true
+    learner_created: true
+  - name: src/machine/Main.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/33/stages/180/implement#comment
+status: Solved
+record: -1
